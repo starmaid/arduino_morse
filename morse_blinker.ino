@@ -8,7 +8,7 @@
 // Type your message, but dont send it
 // Hit the reset button on the arduino
 // Send your message when you see the prompts
-// Now the message will repeat until you poweroff or reset the 
+// Now the message will repeat until you poweroff or reset the board
 
 int led_pin = 2;        // The digital port your LED is connected to
 int short_pulse = 150;  // How long your 'short' pulse lasts
